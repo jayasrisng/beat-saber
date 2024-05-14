@@ -1,0 +1,239 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# PyInstaller
+#  Usually these files are written by a python script from a template
+#  before PyInstaller builds the exe, so as to inject date/other infos into it.
+*.manifest
+*.spec
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+*.mocha.json
+*.testly
+
+# Translations
+*.pot
+*.po
+
+# Django stuff:
+*.log
+local_settings.py
+db.sqlite3
+
+# Flask stuff:
+instance/
+.webassets-cache
+
+# Scrapy stuff:
+.scrapy
+
+# Sphinx documentation
+docs/_build/
+
+# PyBuilder
+target/
+
+# IPython/Jupyter Notebook
+.ipynb_checkpoints
+
+# Colab metadata
+*.ipynb
+
+# PyCharm
+.idea/
+
+# VS Code
+.vscode/
+.vscode/settings.json
+.vscode/tasks.json
+.vscode/launch.json
+.vscode/extensions.json
+.history/
+node_modules/
+*.code-workspace
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+bin/
+build/
+develop-eggs/
+dist/
+include/
+lib/
+lib64/
+parts/
+sdist/
+var/
+virtualenv/
+virtualenvwrapper/
+WORKON_HOME/
+venv3/
+venv3.7/
+docs/build/
+
+# Spyder project settings
+.spyproject
+
+# Rope project settings
+.ropeproject
+
+# PyDev project settings
+.project
+.pydevproject
+
+# mypy
+.mypy_cache/
+
+# Pyre type checker
+.pyre/
+.pyright/
+.pytype/
+
+# Pylint
+.pylintrc
+
+# Bandit
+.bandit
+
+# pytype static type analyzer
+.pytype/
+
+# Celery beat schedule file
+celerybeat-schedule
+
+# SageMath parsed files
+*.sage.py
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+venv3/
+venv3.7/
+docs/build/
+
+# Anaconda
+*.conda
+*.condarc
+*.conda-env
+*.condarc~
+
+# Spyder project settings
+.spyproject
+
+# Rope project settings
+.ropeproject
+
+# JupyterLab
+.jupyterlab
+
+# Pytest cache
+.pytest_cache/
+
+# PDM project settings
+.pdm.toml
+__pypackages__/
+
+# Poetry specific
+poetry.lock
+poetry.toml
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Google Drive
+.content/
+
+# General files
+*.log
+*.sql
+*.sqlite
+*.swp
+*.swo
+*.swn
+
+# Temporary files
+*.tmp
+*.temp
+*.out
+*.err
+*.pid
+*.seed
+*.log
+*.hprof
+
+# Data files
+*.csv
+*.tsv
+*.json
+*.gz
+*.zip
+*.tar
+*.tar.gz
+
+# Models
+*.h5
+*.hdf5
+*.pkl
+*.joblib
+
+# Colab files
+.ipynb_checkpoints
+colabfold.log
+drive/
